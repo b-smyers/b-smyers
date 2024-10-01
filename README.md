@@ -1,5 +1,6 @@
 # Brendan Smyers
-Hey! I'm Brendan Smyers and I'm currently enrolled at Ohio University studying computer science. Currently working on a microRTS project to generate genetically optimized microRTS bots.  
+Hey! I'm Brendan Smyers and I'm currently enrolled at Ohio University studying computer science.<br>
+Currently working on: [Roblox Analytics Tool](https://github.com/b-smyers/roblox-analytics)
 
 ---
 
