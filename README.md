@@ -2,6 +2,8 @@
 Hey! I'm Brendan Smyers and I'm currently enrolled at Ohio University studying computer science.<br>
 Currently working on: [Roblox Analytics Tool](https://github.com/b-smyers/roblox-analytics)
 
+Check out my portfolio website [here](https://b-smyers.github.io/)
+
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
