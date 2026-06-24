@@ -1,5 +1,4 @@
 # Brendan Smyers
-Hey! I'm Brendan Smyers and I'm currently enrolled at Ohio University studying computer science.<br>
-Currently working on: [Voice Agent Framework](https://github.com/b-smyers/voice-agent-framework)
+Hey! I'm Brendan Smyers and I'm a Computer Science graduate of Ohio University.<br>
 
 Check out my portfolio website [here](https://b-smyers.github.io/)
